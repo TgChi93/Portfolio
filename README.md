@@ -18,11 +18,11 @@
 입사 1년차가 거의 끝나가던 무렵 저는 퇴근 후 여가시간을 사용하여 한가지 도전을 하기로 결심하는데, 바로 입사 1년차가 끝나기 전까지 VR 굴착기 시뮬레이터를 개발하는 것이었습니다. <br/>
 비록 기존에 게임을 개발해 본 적도 없는 제가 갑자기 zero base 에서 VR 프로그램을 개발하는 것은 어려움이 있었으나, `어려운 도전을 성사시키는 것이야말로 가치가 있다`는 생각으로, 야심차게 처음부터 시작하여 VR 굴착기 시뮬레이터를 개발하게 되었습니다. <br/>
 
-<img src="https://github.com/TgChi93/Portfolio/blob/master/2.%20%5B%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90%5D%20%EC%B7%A8%EB%AF%B8_VR%20%EA%B5%B4%EC%B0%A9%EA%B8%B0%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0/%EC%84%A4%EA%B3%84%EB%AA%A9%ED%91%9C%20%EB%B0%8F%20%EA%B2%B0%EA%B3%BC%EB%AC%BC.PNG" width="50%" height="50%"/><br/>
+<img src="https://github.com/TgChi93/Portfolio/blob/master/2.%20%5B%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90%5D%20%EC%B7%A8%EB%AF%B8_VR%20%EA%B5%B4%EC%B0%A9%EA%B8%B0%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0/%EC%84%A4%EA%B3%84%EB%AA%A9%ED%91%9C%20%EB%B0%8F%20%EA%B2%B0%EA%B3%BC%EB%AC%BC.PNG" width="70%" height="70%"/><br/>
 
-<img src="https://github.com/TgChi93/Portfolio/blob/master/2.%20%5B%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90%5D%20%EC%B7%A8%EB%AF%B8_VR%20%EA%B5%B4%EC%B0%A9%EA%B8%B0%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0/%EC%82%AC%EC%9A%A9%ED%96%88%EB%8D%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EB%93%A4.PNG" width="50%" height="50%"/><br/>
+<img src="https://github.com/TgChi93/Portfolio/blob/master/2.%20%5B%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90%5D%20%EC%B7%A8%EB%AF%B8_VR%20%EA%B5%B4%EC%B0%A9%EA%B8%B0%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0/%EC%82%AC%EC%9A%A9%ED%96%88%EB%8D%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EB%93%A4.PNG" width="60%" height="60%"/><br/>
 
-<img src="https://github.com/TgChi93/Portfolio/blob/master/2.%20%5B%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90%5D%20%EC%B7%A8%EB%AF%B8_VR%20%EA%B5%B4%EC%B0%A9%EA%B8%B0%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%8B%A4%ED%96%89.gif" width="50%" height="50%"/><br/>
+<img src="https://github.com/TgChi93/Portfolio/blob/master/2.%20%5B%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90%5D%20%EC%B7%A8%EB%AF%B8_VR%20%EA%B5%B4%EC%B0%A9%EA%B8%B0%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%8B%A4%ED%96%89.gif" width="60%" height="60%"/><br/>
 
 
 ### 업무경력
