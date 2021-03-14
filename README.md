@@ -11,17 +11,18 @@
 ### 학창시절
 학창시절 저에게 있어서 프로그래밍은 적은 돈으로 센서 제어 및 데이터처리를 도와주는 매우 `유용한 도구` 였습니다. <br/>2천원짜리 아두이노 보드에 코드를 입히면 40만원짜리 DAQ를 대체하여 센서를 제어할 수 있었고, Python으로 상용 데이터처리 프로그램을 대체할 수 있었습니다. 하기는 제가 "수리 소프트웨어의 활용"교양과목에서 Python을 이용하여 교실에 설치된 모니터의 고유진동수를 측정하는 과정 입니다. <br/>
 (*코드는 1번 폴더에 포함되어 있습니다)<br/>
-<img src="https://github.com/TgChi93/Portfolio/blob/master/1.%20%5B%ED%95%99%EC%B0%BD%EC%8B%9C%EC%A0%88%5D%20%EC%A0%80%EB%A0%B4%ED%95%9C%20%EC%98%88%EC%82%B0%EC%9C%BC%EB%A1%9C%20%EC%84%BC%EC%84%9C%20%EC%82%AC%EC%9A%A9/Sensor.gif" width="50%" height="50%"/>
+<img src="https://github.com/TgChi93/Portfolio/blob/master/1.%20%5B%ED%95%99%EC%B0%BD%EC%8B%9C%EC%A0%88%5D%20%EC%A0%80%EB%A0%B4%ED%95%9C%20%EC%98%88%EC%82%B0%EC%9C%BC%EB%A1%9C%20%EC%84%BC%EC%84%9C%20%EC%82%AC%EC%9A%A9/Sensor.gif" width="40%" height="40%"/><br/>
+<img src="https://github.com/TgChi93/Portfolio/blob/master/1.%20%5B%ED%95%99%EC%B0%BD%EC%8B%9C%EC%A0%88%5D%20%EC%A0%80%EB%A0%B4%ED%95%9C%20%EC%98%88%EC%82%B0%EC%9C%BC%EB%A1%9C%20%EC%84%BC%EC%84%9C%20%EC%82%AC%EC%9A%A9/result.PNG" width="80%" height="80%"/><br/>
 
 ### VR굴착기
 입사 1년차가 거의 끝나가던 무렵 저는 퇴근 후 여가시간을 사용하여 한가지 도전을 하기로 결심하는데, 바로 입사 1년차가 끝나기 전까지 VR 굴착기 시뮬레이터를 개발하는 것이었습니다. <br/>
 비록 기존에 게임을 개발해 본 적도 없는 제가 갑자기 zero base 에서 VR 프로그램을 개발하는 것은 어려움이 있었으나, `어려운 도전을 성사시키는 것이야말로 가치가 있다`는 생각으로, 야심차게 처음부터 시작하여 VR 굴착기 시뮬레이터를 개발하게 되었습니다. <br/>
 
-![설계목표 및 결과물](https://user-images.githubusercontent.com/80578000/111079023-7ce6d780-853b-11eb-9f4d-d1818f4c6a8b.PNG)<br/>
+<img src="https://github.com/TgChi93/Portfolio/blob/master/2.%20%5B%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90%5D%20%EC%B7%A8%EB%AF%B8_VR%20%EA%B5%B4%EC%B0%A9%EA%B8%B0%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0/%EC%84%A4%EA%B3%84%EB%AA%A9%ED%91%9C%20%EB%B0%8F%20%EA%B2%B0%EA%B3%BC%EB%AC%BC.PNG" width="100%" height="100%"/><br/>
 
-![사용했던 프로그램들](https://user-images.githubusercontent.com/80578000/111079078-be778280-853b-11eb-853b-3f6e91e0fd2e.PNG)<br/>
+<img src="https://github.com/TgChi93/Portfolio/blob/master/2.%20%5B%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90%5D%20%EC%B7%A8%EB%AF%B8_VR%20%EA%B5%B4%EC%B0%A9%EA%B8%B0%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0/%EC%82%AC%EC%9A%A9%ED%96%88%EB%8D%98%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EB%93%A4.PNG" width="100%" height="100%"/><br/>
 
-![Screenrecorder-2021-03-15-02-29-24-361_Trim_Trim](https://user-images.githubusercontent.com/80578000/111079042-8b34f380-853b-11eb-8503-f094a037782d.gif)<br/>
+<img src="https://github.com/TgChi93/Portfolio/blob/master/2.%20%5B%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90%5D%20%EC%B7%A8%EB%AF%B8_VR%20%EA%B5%B4%EC%B0%A9%EA%B8%B0%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%8B%A4%ED%96%89.gif" width="100%" height="100%"/><br/>
 
 
 ### 업무경력
