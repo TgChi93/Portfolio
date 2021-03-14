@@ -11,8 +11,7 @@
 ### 학창시절
 학창시절 저에게 있어서 프로그래밍은 적은 돈으로 센서 제어 및 데이터처리를 도와주는 매우 `유용한 도구` 였습니다. <br/>2천원짜리 아두이노 보드에 코드를 입히면 40만원짜리 DAQ를 대체하여 센서를 제어할 수 있었고, Python으로 상용 데이터처리 프로그램을 대체할 수 있었습니다. 하기는 제가 "수리 소프트웨어의 활용"교양과목에서 Python을 이용하여 교실에 설치된 모니터의 고유진동수를 측정하는 과정 입니다. <br/>
 (*코드는 1번 폴더에 포함되어 있습니다)<br/>
-![Sensor_Trim](https://user-images.githubusercontent.com/80578000/111077215-0e058080-8533-11eb-8d01-056318b778d8.gif)
-![result](https://user-images.githubusercontent.com/80578000/111077220-11990780-8533-11eb-9905-cb3c7b7d07b6.PNG){: width="70%" height="70%"}
+<img src="https://github.com/TgChi93/Portfolio/blob/master/1.%20%5B%ED%95%99%EC%B0%BD%EC%8B%9C%EC%A0%88%5D%20%EC%A0%80%EB%A0%B4%ED%95%9C%20%EC%98%88%EC%82%B0%EC%9C%BC%EB%A1%9C%20%EC%84%BC%EC%84%9C%20%EC%82%AC%EC%9A%A9/Sensor.gif" width="50%" height="50%"/>
 
 ### VR굴착기
 입사 1년차가 거의 끝나가던 무렵 저는 퇴근 후 여가시간을 사용하여 한가지 도전을 하기로 결심하는데, 바로 입사 1년차가 끝나기 전까지 VR 굴착기 시뮬레이터를 개발하는 것이었습니다. <br/>
@@ -22,7 +21,7 @@
 
 ![사용했던 프로그램들](https://user-images.githubusercontent.com/80578000/111079078-be778280-853b-11eb-853b-3f6e91e0fd2e.PNG)<br/>
 
-![Screenrecorder-2021-03-15-02-29-24-361_Trim_Trim](https://user-images.githubusercontent.com/80578000/111079042-8b34f380-853b-11eb-8503-f094a037782d.gif){: width="50%" height="50%"}<br/>
+![Screenrecorder-2021-03-15-02-29-24-361_Trim_Trim](https://user-images.githubusercontent.com/80578000/111079042-8b34f380-853b-11eb-8503-f094a037782d.gif)<br/>
 
 
 ### 업무경력
